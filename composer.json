@@ -1,0 +1,20 @@
+{
+    "name": "gooyer/routing",
+    "authors": [
+        {
+            "name": "Łukasz Grajewski",
+            "email": "grajewski.lukasz@wp.pl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gooyer\\Routing\\": "src/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^1.0",
+        "psr/http-server-middleware": "^1.0",
+        "gooyer/http": "dev-main"
+    },
+    "license": "Apache-2.0"
+}
