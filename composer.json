@@ -14,7 +14,8 @@
     "require": {
         "psr/http-message": "^1.0",
         "psr/http-server-middleware": "^1.0",
-        "gooyer/http": "dev-main"
+        "gooyer/http": "dev-main",
+        "gooyer/container": "dev-master"
     },
     "license": "Apache-2.0"
 }
